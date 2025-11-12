@@ -9,6 +9,12 @@
   box-sizing: border-box;
 }
 
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+/* Global styles */
 :root {
   --snitap-sun: #ffcd1e;
   --snitap-sky-mid: #06b6d4;
